@@ -8,5 +8,5 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML**
 
-<h3 align="left">Wyswietlenia profilu/h3>
+<h3 align="left">Wyswietlenia profilu</h3>
 <img src="https://profile-counter.glitch.me/%7BPawcineQ%7D/count.svg" alt="pawcineq" />
