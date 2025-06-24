@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm power</h1>
-<h3 align="center">I am defeloper!</h3>
+<h1 align="center">Hi 👋, I'm powerek</h1>
+<h3 align="center">I am developer!</h3>
 
-<p align="left">  </p>
+<a  href="https://github.com/mesiik?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesiik&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
 
-
-- 🔭 I’m currently working on **Drumy**
-
-- 🌱 I’m currently learning **JavaScript, HTML**
-
-<h3 align="left">Wyswietlenia profilu</h3>
+<h3 align="left">Profile views</h3>
 <img src="https://profile-counter.glitch.me/%7BPawcineQ%7D/count.svg" alt="pawcineq" />
